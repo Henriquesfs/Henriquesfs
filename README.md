@@ -1,16 +1,22 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**Henriquesfs/Henriquesfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Olá! Meu nome é <strong>Henrique Fernandes</strong> e eu sou um <strong>Desenvolvedor Java</strong>.<br>
+  Atualmente cursando Engenharia de Software na UCSal.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  👨‍💻 Linguagens: <strong>Java,Python,SQL</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: <strong>Git,JDBC, PostgreSQL</strong>
+</p>
+
+
+<p align="left">
+  <a href="mailto:henrique.fernandes17@proton.me" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:henrique.fernandes17@proton.me" alt="Email"/></a>
+  <a href="www.linkedin.com/in/henriquesfs" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/henriquesfs" alt="LinkedIn"/></a>
+</p>
