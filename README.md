@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  👨‍💻 Linguagens: <strong>Java,Python,SQL</strong>
+  👨‍💻 Linguagens: <strong>Java,SQL</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Git,JDBC, PostgreSQL</strong>
+  💼 Ferramentas: <strong>Git,JDBC,PostgreSQL, Spring Boot</strong>
 </p>
 
 
