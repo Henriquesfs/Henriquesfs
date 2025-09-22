@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  👨‍💻 Linguagens: <strong>Java,SQL</strong>
+  👨‍💻 Tecnologias: <strong>Java,SQL, AWS</strong>
 </p>
 
 <p align="left">
