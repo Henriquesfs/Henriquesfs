@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  👨‍💻 Tecnologias: <strong>Java,Spring FrameWork, Git, PostgreSQl, SQL, AWS, Angular</strong>
+  👨‍💻 Tecnologias: <strong>Java,Spring Framework, Git, PostgreSQl, SQL, AWS, Angular</strong>
 </p>
 
 
