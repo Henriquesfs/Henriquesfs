@@ -9,7 +9,7 @@
   👨‍💻 Tecnologias: <strong>Java,Spring Framework, Git, PostgreSQl, SQL, AWS, Angular</strong>
 </p>
 
-
+https://www.linkedin.com/in/henriquesfs
 
 <p align="left">
   <a href="mailto:henrique.fernandes17@proton.me" title="Gmail">
