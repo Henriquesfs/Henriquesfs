@@ -6,12 +6,9 @@
 </p>
 
 <p align="left">
-  👨‍💻 Tecnologias: <strong>Java,SQL, AWS</strong>
+  👨‍💻 Tecnologias: <strong>Java,Spring FrameWork, Git, PostgreSQl, SQL, AWS, Angular</strong>
 </p>
 
-<p align="left">
-  💼 Ferramentas: <strong>Git,JDBC,PostgreSQL, Spring Boot</strong>
-</p>
 
 
 <p align="left">
